@@ -36,6 +36,12 @@
       "image": "fa-twitter",
       "url": "https://www.twitter.com/hhlp/",
       "style": "socialicons"
+    },
+    {
+      "id": 5,
+      "image": "fa-dochub",
+      "url": "https://hhlp.github.io/blog/",
+      "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
